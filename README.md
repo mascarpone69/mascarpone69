@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
-- 📫 How to reach me **mariia.marchuk97@gmail.com**
+- 📫 How to reach me **vampirsha1873@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mascarpone69&show_icons=true&locale=en" alt="mascarpone69" /></p>
 
