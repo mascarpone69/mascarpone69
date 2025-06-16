@@ -21,7 +21,7 @@
   
 🇺🇸 English — B1–B2
 
-🇩🇪 German — A2-B1(learning)
+🇩🇪 German — A2-B1 (learning)
 
 🇵🇱 Polish — B2
 
