@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋 I'm MASCARPONE</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/mascarpone69/mascarpone-svg/refs/heads/main/mascarpone_snowflakes.svg" alt="MASCARPONE" />
+</h1>
+
+<h2>Hey 👋</h2>
 <h3 align="center">Junior Frontend Developer | Based in Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mascarpone69&label=Profile%20views&color=0e75b6&style=flat" alt="mascarpone69" /> </p>
