@@ -24,7 +24,7 @@
 <p>🔤 <strong>Languages I speak:</strong></p>
   
 <ul>
-  <li>🇺🇸 English — B1–B2</li>
+  <li>🇺🇸 English — B2</li>
   <li>🇩🇪 German — A2–B1 (learning)</li>
   <li>🇵🇱 Polish — B2</li>
   <li>🇷🇺 Russian — Native</li>
