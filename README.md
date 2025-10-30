@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">Hey 👋</h2>
-<h3 align="center">Junior Frontend Developer | Based in Germany</h3>
+<h3 align="center">Junior Software Developer | Based in Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mascarpone69&label=Profile%20views&color=0e75b6&style=flat" alt="mascarpone69" /> </p>
 
@@ -34,7 +34,7 @@
 <p>💬 <strong>About Me:</strong></p>
 <ul>
   <li>I’m looking for an <strong>Ausbildung</strong> as a <em>Fachinformatikerin – Anwendungsentwicklung</em></li>
-  <li>My goal is to become a Frontend Developer in a great team</li>
+  <li>I’m especially interested in user interfaces, responsive design, and web technologies. I’m open to full-stack topics and eager to learn and grow as part of a professional team</li>
   <li>Highly motivated to grow and improve every day</li>
 </ul>
 
