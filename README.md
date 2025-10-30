@@ -25,7 +25,7 @@
   
 <ul>
   <li>🇺🇸 English — B2</li>
-  <li>🇩🇪 German — A2–B1 (learning)</li>
+  <li>🇩🇪 German — B1 (learning)</li>
   <li>🇵🇱 Polish — B2</li>
   <li>🇷🇺 Russian — Native</li>
   <li>🇺🇦 Ukrainian — Native</li>
