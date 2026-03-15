@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mascarpone69" alt="mascarpone69" /></a> </p>
 
-- 👨‍💻 Resume: [bespoke-biscotti-41f899.netlify.app](https://dainty-churros-588283.netlify.app/)
+- 👨‍💻 Resume: [fabulous-monstera-cc3cbb.netlify.app](https://fabulous-monstera-cc3cbb.netlify.app/)
 
 - 📫 Email: **mariia.marchuk97@gmail.com**
 
