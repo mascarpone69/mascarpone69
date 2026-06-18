@@ -33,8 +33,8 @@
 
 <p>💬 <strong>About Me:</strong></p>
 <ul>
-  <li>I’m looking for an <strong>Umschulung</strong> as a <em>Fachinformatikerin – Anwendungsentwicklung</em></li>
-  <li>I’m especially interested in user interfaces, responsive design, and web technologies. I’m open to full-stack topics and eager to learn and grow as part of a professional team</li>
+  <li>I am an aspiring Software Developer preparing for an <strong>Umschulung</strong> as a <em>Fachinformatikerin für Anwendungsentwicklung (IHK)</em></li>
+  <li>I’m interested in building modern applications, including web and software systems, and I aim to grow towards backend and cloud technologies in the future. I enjoy understanding how applications work end-to-end — from user interface to backend systems and infrastructure.</li>
   <li>Highly motivated to grow and improve every day</li>
 </ul>
 
@@ -42,12 +42,13 @@
 <ul>
   <li>Modern Frontend technologies</li>
   <li>Best practices for building clean and accessible UI</li>
+  <li>Software development fundamentals</li>
+  <li>Basic understanding of backend concepts</li>
 </ul>
 
 <p>🔭 <strong>I’m currently working on:</strong></p>
 <ul>
   <li>Small projects using HTML, CSS, and JavaScript</li>
-  <li>Learning React and responsive design techniques</li>
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mascarpone69&show_icons=true&locale=en&layout=compact" alt="mascarpone69" /></p>
