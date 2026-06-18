@@ -33,7 +33,7 @@
 
 <p>💬 <strong>About Me:</strong></p>
 <ul>
-  <li>I’m looking for an <strong>Ausbildung</strong> as a <em>Fachinformatikerin – Anwendungsentwicklung</em></li>
+  <li>I’m looking for an <strong>Umschulung</strong> as a <em>Fachinformatikerin – Anwendungsentwicklung</em></li>
   <li>I’m especially interested in user interfaces, responsive design, and web technologies. I’m open to full-stack topics and eager to learn and grow as part of a professional team</li>
   <li>Highly motivated to grow and improve every day</li>
 </ul>
