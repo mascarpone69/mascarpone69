@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mascarpone69" alt="mascarpone69" /></a> </p>
 
-- 👨‍💻 Resume: [dynamic-hotteok-62f52a.netlify.app](https://dynamic-hotteok-62f52a.netlify.app/)
+- 👨‍💻 Resume: [frolicking-muffin-8a8053.netlify.app](https://frolicking-muffin-8a8053.netlify.app/)
 
 - 📫 Email: **mariia.marchuk97@gmail.com**
 
