@@ -33,9 +33,10 @@
 
 <p>💬 <strong>About Me:</strong></p>
 <ul>
-  <li>I am an aspiring Software Developer preparing for an <strong>Umschulung</strong> as a <em>Fachinformatikerin für Anwendungsentwicklung (IHK)</em></li>
-  <li>I’m interested in building modern applications, including web and software systems, and I aim to grow towards backend and cloud technologies in the future. I enjoy understanding how applications work end-to-end — from user interface to backend systems and infrastructure.</li>
-  <li>Highly motivated to grow and improve every day</li>
+  <li>I am an aspiring Software Developer preparing for an <strong>Umschulung</strong> as a <em>Fachinformatikerin für Anwendungsentwicklung (IHK).</em>I am focusing on building a strong foundation in software development, data analysis, and cloud technologies.</li>
+  <li>I am interested in working with data-driven systems, backend development, and cloud-based applications, and I am motivated to explore career paths in Data Engineering, Data Analytics, or Software Development.
+I enjoy understanding how systems work end-to-end — from data processing and backend logic to cloud-based infrastructure.</li>
+  <li>Highly motivated to learn, improve, and build real-world projects.</li>
 </ul>
 
 <p>🌱 <strong>I’m currently learning:</strong></p>
