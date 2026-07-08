@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">Hey 👋</h2>
-<h3 align="center">Junior Software Developer | Based in Germany</h3>
+<h3 align="center">Aspiring Data & Software Developer | Based in Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mascarpone69&label=Profile%20views&color=0e75b6&style=flat" alt="mascarpone69" /> </p>
 
@@ -33,7 +33,7 @@
 
 <p>💬 <strong>About Me:</strong></p>
 <ul>
-  <li>I am an aspiring Software Developer preparing for an <strong>Umschulung</strong> as a <em>Fachinformatikerin für Anwendungsentwicklung (IHK).</em>I am focusing on building a strong foundation in software development, data analysis, and cloud technologies.</li>
+  <li>I am an aspiring Software Developer preparing for an <strong>Umschulung</strong> as a <em>Fachinformatikerin für Daten- und Prozessanalyse (IHK).</em> I am building a strong foundation in Python, SQL, data analysis, software development, and cloud technologies.</li>
   <li>I am interested in working with data-driven systems, backend development, and cloud-based applications, and I am motivated to explore career paths in Data Engineering, Data Analytics, or Software Development.
 I enjoy understanding how systems work end-to-end — from data processing and backend logic to cloud-based infrastructure.</li>
   <li>Highly motivated to learn, improve, and build real-world projects.</li>
@@ -41,7 +41,7 @@ I enjoy understanding how systems work end-to-end — from data processing and b
 
 <p>🌱 <strong>I’m currently learning:</strong></p>
 <ul>
-  <li>Modern Frontend technologies</li>
+  <li>Building a portfolio for my future IT career</li>
   <li>Best practices for building clean and accessible UI</li>
   <li>Software development fundamentals</li>
   <li>Basic understanding of backend concepts</li>
