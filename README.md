@@ -34,6 +34,12 @@
 - 👨‍💻 Resume: [frolicking-muffin-8a8053.netlify.app](https://frolicking-muffin-8a8053.netlify.app/)
 - 📫 Email: **mariia.marchuk97@gmail.com**
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA3dzJ3bTg1cm5jcThlc2R4bWhhMWMyYmMyN2cyYXl1bDVjd2FvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"
+  width="200"
+  align="right"
+  alt="Coding cat"
+/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mascarpone_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mascarpone_69" height="30" width="40" /></a>
