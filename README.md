@@ -67,13 +67,19 @@
   <li>Highly motivated to learn, improve, and build real world projects.</li>
 </ul>
 
-<h3 align="left">I’m currently learning:</h3>
-<ul>
-  <li>Building a portfolio for my future IT career</li>
-  <li>Best practices for writing clean and maintainable code</li>
-  <li>Software development fundamentals & algorithms</li>
-  <li>Database architecture and SQL queries</li>
-</ul>
+<h3 align="left">📚 I’m currently learning</h3>
+
+<p>
+  <img align="right" width="280" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=8E7CFF&center=true&vCenter=true&width=280&height=140&lines=Learning+by+doing;Building+step+by+step;Turning+ideas+into+code;Curiosity+%3E+perfection+%E2%9C%A8" alt="Learning animation" />
+</p>
+
+- 🐍 **Python** — strengthening programming fundamentals and problem-solving skills
+- 🧠 **Clean Code** — learning to write readable, maintainable, and structured code
+- ⚙️ **Algorithms** — practicing logical thinking and software development fundamentals
+- 🗄️ **SQL & Databases** — exploring database architecture and learning how to work with data
+- 🚀 **Portfolio Projects** — building practical projects to develop my IT skills
+
+<br clear="right"/>
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
