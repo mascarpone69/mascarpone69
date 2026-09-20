@@ -102,3 +102,23 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,14,18,20&animation=fadeIn" alt="Magic Footer" />
 </p>
+
+
+<p align="center">
+  ●──────────●──────────●────────────●────────────────●
+</p>
+
+<p align="center">
+  <sub>
+    🐍 Programming &nbsp;&nbsp;&nbsp;
+    🗄️ Databases &nbsp;&nbsp;&nbsp;
+    📊 Data Analytics &nbsp;&nbsp;&nbsp;
+    ⚙️ Data Engineering &nbsp;&nbsp;&nbsp;
+    ☁️ Cloud
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8E7CFF&center=true&vCenter=true&width=600&height=40&lines=Learning+step+by+step+%E2%9C%A8;Building+projects+along+the+way+%F0%9F%9A%80;From+code+to+data+to+cloud+%E2%98%81%EF%B8%8F" alt="Development path animation" />
+</p>
+
