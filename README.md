@@ -3,7 +3,14 @@
 </h1>
 
 <h2 align="center">Hey 👋</h2>
-<h3 align="center">Aspiring Data & Software Developer | Based in Germany</h3>
+<p align="center">
+  <strong>Aspiring Data & Software Developer</strong><br>
+  <sub>Based in Germany · Building my path into Data & Software Development</sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=8E7CFF&center=true&vCenter=true&width=650&lines=Learning+Python+%26+SQL;Building+my+IT+portfolio;Exploring+Data+%26+Software+Development;Preparing+for+my+Umschulung" alt="Typing animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mascarpone69&label=Profile%20views&color=0e75b6&style=flat" alt="mascarpone69" />
@@ -15,6 +22,14 @@
 > ⚡ **Current Focus:** Preparing for an **Umschulung** as a *Fachinformatikerin für Daten und Prozessanalyse (IHK)*. Building robust backend foundations, practicing algorithms, and structuring my public portfolio.
 
 ---
+<p align="center">
+  <a href="https://frolicking-muffin-8a8053.netlify.app/">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Resume-69E7FF?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:mariia.marchuk97@gmail.com">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-8E7CFF?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
 - 👨‍💻 Resume: [frolicking-muffin-8a8053.netlify.app](https://frolicking-muffin-8a8053.netlify.app/)
 - 📫 Email: **mariia.marchuk97@gmail.com**
@@ -25,13 +40,25 @@
 </p>
 
 <h3 align="left">Languages I speak:</h3>
-<ul>
-  <li>🇺🇸 English - B2</li>
-  <li>🇩🇪 German - B2</li>
-  <li>🇵🇱 Polish - B2</li>
-  <li>🇷🇺 Russian - Native</li>
-  <li>🇺🇦 Ukrainian - Native</li>
-</ul>
+<table>
+<tr>
+<td width="48%" valign="top">
+
+🇺🇸 **English** - B2  
+🇩🇪 **German** - B2  
+🇵🇱 **Polish** - B2  
+🇷🇺 **Russian** - Native  
+🇺🇦 **Ukrainian** - Native
+
+</td>
+
+<td width="52%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=900&color=B66CFF&center=true&vCenter=true&width=400&height=100&lines=Hello+%7C+Hallo+%7C+Cze%C5%9B%C4%87;Data+%7C+Code+%7C+Cloud;Always+learning+%E2%9C%A8" alt="Languages animation" />
+
+</td>
+</tr>
+</table>
 
 <h3 align="left">About Me:</h3>
 <ul>
