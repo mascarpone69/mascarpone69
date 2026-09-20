@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/mascarpone69/mascarpone-svg/refs/heads/main/mascarpone_snowflakes.svg" alt="MASCARPONE" />
+  <img src="https://raw.githubusercontent.com/mascarpone69/magic-svg/refs/heads/main/magic_snowflakes.svg" alt="MAGIC" />
 </h1>
 
 <h2 align="center">Hey 👋</h2>
