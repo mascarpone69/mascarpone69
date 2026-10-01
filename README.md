@@ -99,6 +99,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,14,18,20&animation=fadeIn" alt="Magic Footer" />
 </p>
 
+<!-- Верхняя карточка серии -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mascarpone69&theme=dark" alt="GitHub Streak Stats" width="50%" />
+</p>
+
+<!-- Статистика и Языки -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mascarpone69&show_icons=true&theme=synthwave" alt="GitHub Stats" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mascarpone69&layout=compact&theme=synthwave" alt="Top Languages" width="41%" />
+</p>
 
 <p align="center">
   ●──────────●──────────●────────────●────────────────●
