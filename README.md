@@ -75,10 +75,6 @@
 
 <h3 align="left">📚 I’m currently learning</h3>
 
-<p>
-  <img align="right" width="280" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=8E7CFF&center=true&vCenter=true&width=280&height=140&lines=Learning+by+doing;Building+step+by+step;Turning+ideas+into+code;Curiosity+%3E+perfection+%E2%9C%A8" alt="Learning animation" />
-</p>
-
 - 🐍 **Python** — strengthening programming fundamentals and problem-solving skills
 - 🧠 **Clean Code** — learning to write readable, maintainable, and structured code
 - ⚙️ **Algorithms** — practicing logical thinking and software development fundamentals
