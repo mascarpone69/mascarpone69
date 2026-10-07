@@ -83,6 +83,18 @@
 
 <br clear="right"/>
 
+<h3 align="center">🏆 Certifications</h3>
+
+<p align="center">
+  <a href="https://stepik.org/cert/3362277?lang=en">
+    <img src="https://img.shields.io/badge/Stepik-Introduction%20to%20SQL-8E7CFF?style=for-the-badge&logoColor=white" alt="Stepik SQL Certificate" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Introduction to SQL · Stepik · Certificate of Completion</sub>
+</p>
+
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
