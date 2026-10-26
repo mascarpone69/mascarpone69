@@ -19,7 +19,7 @@
 
 ---
 
-> ⚡ **Current Focus:** Preparing for an **Umschulung** as a *Fachinformatikerin für Daten und Prozessanalyse (IHK)*. Building robust backend foundations, practicing algorithms, and structuring my public portfolio.
+> ⚡ **Current Focus:** Preparing for a career in Data & Process Analysis. Building robust backend foundations, practicing algorithms, and structuring my public portfolio.
 
 ---
 <p align="center">
@@ -68,7 +68,7 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-  <li>I am an aspiring Software Developer preparing for an <strong>Umschulung</strong> as a <em>Fachinformatikerin für Daten- und Prozessanalyse (IHK).</em> I am building a strong foundation in Python, SQL, data analysis, software development, and cloud technologies.</li>
+  <li>I am an aspiring IT professional pursuing a career in Data & Process Analysis. I am building a strong foundation in Python, SQL, data analysis, software development, and cloud technologies.</li>
   <li>I am interested in working with data driven systems, backend development, and cloud-based applications, and I am motivated to explore career paths in Data Engineering, Data Analytics, or Software Development. I enjoy understanding how systems work end-to-end from data processing and backend logic to cloud-based infrastructure.</li>
   <li>Highly motivated to learn, improve, and build real world projects.</li>
 </ul>
