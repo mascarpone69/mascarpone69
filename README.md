@@ -23,7 +23,7 @@
 
 ---
 <p align="center">
-  <a href="https://frolicking-muffin-8a8053.netlify.app/">
+  <a href="https://nimble-marigold-99acac.netlify.app/">
     <img src="https://img.shields.io/badge/%F0%9F%93%84%20Resume-69E7FF?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:mariia.marchuk97@gmail.com">
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-- 👨‍💻 Resume: [frolicking-muffin-8a8053.netlify.app](https://frolicking-muffin-8a8053.netlify.app/)
+- 👨‍💻 Resume: [nimble-marigold-99acac.netlify.app](https://nimble-marigold-99acac.netlify.app/)
 - 📫 Email: **mariia.marchuk97@gmail.com**
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA3dzJ3bTg1cm5jcThlc2R4bWhhMWMyYmMyN2cyYXl1bDVjd2FvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"
